@@ -6,7 +6,7 @@
 </h3>
 <br>
 <p align="center">
-  <img src="public/logo_pens.png" alt="logo pens" width="300">
+  <img src="../../public/logo_pens.png" alt="logo pens" width="300">
 </p>
 <br>
 <p align="center">
@@ -94,3 +94,11 @@ Dikatakan bahwa dalam keamanan, satu solusi tunggal yang akan mencegah atau memb
     Terutama ketika berhadapan dengan phishing dan bagaimana mengembangkannya aplikasi web dengan aman
 
 3. Memastikan bahwa penyedia jaringan memiliki kemampuan untuk dukung kami saat kami diserang
+
+
+## Screenshot
+
+![Screenshot](image/1.png)<br>
+![Screenshot](image/2.png)<br>
+![Screenshot](image/3.png)<br>
+![Screenshot](image/4.png)
