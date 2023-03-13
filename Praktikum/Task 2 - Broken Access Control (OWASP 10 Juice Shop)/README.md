@@ -6,7 +6,7 @@
 </h3>
 <br>
 <p align="center">
-  <img src="public/logo_pens.png" alt="Size Limit CLI" width="300">
+  <img src="../../public/logo_pens.png" alt="Size Limit CLI" width="300">
 </p>
 <br>
 <p align="center">
