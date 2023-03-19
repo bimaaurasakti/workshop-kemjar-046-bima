@@ -30,7 +30,6 @@
 </p>
 <br>
 
-
 ## Laporan
 
 Pada modul 2 ini membahas tentang Cyber Security pada organisasi. Mengapa sebuah organisasi membutuhkan keamanan? Alasan utamanya adalah karena jika terdapatn ancaman terhadap organisasi, maka akan sangat merugikan persahaan.<br>
@@ -60,6 +59,7 @@ Ancaman keamanan umum terhadap organisasi:
 2. Malicious Software (Malware)
 
     Beberapa contoh payload :
+
     - Virus
     - Worms
     - Rootkits
@@ -69,6 +69,7 @@ Ancaman keamanan umum terhadap organisasi:
     Pengguna komputer ditipu untuk mengeksekusi malware. Atau, pembuat malware mengeksploitasi kerentanan perangkat lunak yang ada. Setelah dieksekusi pada sistem, ia akan menjalankan payloadnya.
 
     Yang dilakukan oleh payload adalah:
+
     - Merekam apa yang diketik pengguna
     - Mengirim informasi (yaitu file atau isi database)
     - Mengenkripsi file lokal dan menuntut uang untuk membuka enkripsi mereka
@@ -77,13 +78,13 @@ Ancaman keamanan umum terhadap organisasi:
 
     Akses ke sistem biasanya ditentukan berdasarkan identitas atau kredensial seperti nama pengguna & kata sandi. Pencurian Identitas terjadi ketika penyerang mencuri identitas pengguna sehingga mereka dapat menyamar sebagai pengguna dan mendapatkan akses ke sistem.
 
-3. Web Defacement
+4. Web Defacement
 
     Organisasi memiliki situs web untuk menyediakan informasi dan layanan kepada pelanggan mereka.
     Pengrusakan web terjadi ketika konten situs web dimodifikasi oleh penyerang. Ini dapat terjadi karena kerentanan dalam perangkat lunak server web atau sistem manajemen konten. Hal ini dapat menyebabkan tidak tersedianya layanan atau dapat mempengaruhi reputasi organisasi.
 
 Cara Mengurangi Risiko Serangan Cyber:
-Dikatakan bahwa dalam keamanan, satu solusi tunggal yang akan mencegah atau membuat masalah keamanan hilang. Untuk menghadapi  risiko yang disebutkan sebelumnya, kita harus menerapkan kontrol di berbagai tingkatan.
+Dikatakan bahwa dalam keamanan, satu solusi tunggal yang akan mencegah atau membuat masalah keamanan hilang. Untuk menghadapi risiko yang disebutkan sebelumnya, kita harus menerapkan kontrol di berbagai tingkatan.
 
 1. Kontrol teknis untuk mendeteksi & mencegah
 
@@ -94,7 +95,6 @@ Dikatakan bahwa dalam keamanan, satu solusi tunggal yang akan mencegah atau memb
     Terutama ketika berhadapan dengan phishing dan bagaimana mengembangkannya aplikasi web dengan aman
 
 3. Memastikan bahwa penyedia jaringan memiliki kemampuan untuk dukung kami saat kami diserang
-
 
 ## Screenshot
 
