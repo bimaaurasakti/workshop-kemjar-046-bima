@@ -37,8 +37,9 @@ Kegagalan kriptografi adalah kerentanan keamanan aplikasi web kritis yang memapa
 
 Aplikasi web modern memproses data saat diam dan transit, yang memerlukan kontrol keamanan yang ketat untuk mitigasi ancaman yang komprehensif. Beberapa penerapan menggunakan teknik kriptografi lemah yang dapat dipecahkan dalam jangka waktu yang wajar. Bahkan dengan penerapan teknik kriptografi yang sempurna, pengguna dapat menghindari penerapan praktik terbaik perlindungan data, yang selanjutnya membuat informasi sensitif rentan terhadap pencurian data sensitif.[[1]](https://crashtest-security.com/owasp-cryptographic-failures/).
 
-Macam-macam Cryptographic Failures yang berhasil ditemukan pada Website OWASP Juice Shop:
+Berikut ini macam-macam Cryptographic Failures yang berhasil ditemukan pada Website OWASP Juice Shop beserta video demonya:
 
+---> [Video Demo](https://drive.google.com/drive/folders/1PE0PXa1lkr7EXYPnLLwehOOLdQ2jlo73?usp=share_link) <---
 ### A. Nested Easter Egg 
 
 Easter Egg merupakan pesan tersembunyi yang telah disisipkan kedalam website

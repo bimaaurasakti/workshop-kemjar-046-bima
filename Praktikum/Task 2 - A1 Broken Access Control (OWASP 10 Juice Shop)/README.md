@@ -39,8 +39,9 @@
 
 Gambar diatas menjelaskan bahwa user dapat mengakses pribadi pada server dengan Access Control List. Tetapi jika Access Control List tersebut tidak menghandle beberapa enpoint, maka orang lain atau hacker dapat mengakses data user tersebut pada server. 
 
-Macam-macam Broken Access Control yang berhasil ditemukan pada Website OWASP Juice Shop:
+Berikut ini macam-macam Broken Access Control yang berhasil ditemukan pada Website OWASP Juice Shop beserta video demmonya:
 
+---> [Video Demo](https://drive.google.com/drive/folders/1PE0PXa1lkr7EXYPnLLwehOOLdQ2jlo73?usp=share_link) <---
 ### A. Forged Feedback   
 
 Kita akan menambahkan feedback kepada toko dengan username sebagai pengguna lain
