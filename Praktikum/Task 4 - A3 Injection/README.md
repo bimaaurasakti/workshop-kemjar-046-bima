@@ -2,7 +2,7 @@
 
 <h3 align="center">
     <b>Praktikum Kemanan Jaringan</b><br>
-    A2 Cryptographic Failures (OWASP 10 Juice Shop)
+    A3 Injection (OWASP 10 Juice Shop)
 </h3>
 <br>
 <p align="center">
