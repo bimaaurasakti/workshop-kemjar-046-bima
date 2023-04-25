@@ -98,7 +98,7 @@ Dikatakan bahwa dalam keamanan, satu solusi tunggal yang akan mencegah atau memb
 
 ## Screenshot
 
-![Screenshot](image/1.png)<br>
-![Screenshot](image/2.png)<br>
-![Screenshot](image/3.png)<br>
-![Screenshot](image/4.png)
+![Screenshot](images/1.png)<br>
+![Screenshot](images/2.png)<br>
+![Screenshot](images/3.png)<br>
+![Screenshot](images/4.png)
