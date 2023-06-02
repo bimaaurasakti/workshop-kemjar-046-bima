@@ -83,6 +83,8 @@ Pada praktikum ini, kita mencoba melakukan peretasan pada sebuah Virtual Box Ima
 
 1. Langkah pertama yang saya lakukan untuk mendapatkan akses database adalah melakukan crawling untuk mendapatkan sitemap website yang akan kita serang menggunakan skipfish
 
+    ```$ skipfish -o 202 http://192.168.6.148```
+    
     ![Screenshot](images/7-1.png)
     ![Screenshot](images/7-2.jpg)
 
