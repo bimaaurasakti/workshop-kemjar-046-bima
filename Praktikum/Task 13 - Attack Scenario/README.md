@@ -86,18 +86,21 @@ Pada praktikum ini, kita mencoba melakukan peretasan pada sebuah Virtual Box Ima
     ```$ skipfish -o 202 http://192.168.6.148```
     
     ![Screenshot](images/7-1.png)
-    ![Screenshot](images/7-2.jpg)
 
-2. Setelah berhasil mendapatkan sitemapnya coba buka satu satu halaman yang ada lalu kita analisa halaman mana yang dapat kita lakukan injeksi. Setelah dilihat lihat kita mendapatkan 1 halaman yang dapat kita lakukan injeksi dengan GET Method yaitu pada halaman /kontent/artikel_detail.php
+    Tampilan ini menunjukkan program skipfish sedang berjalan dan sedang melakukan crawling
+
+    ![Screenshot](images/7-2.png)
+
+    Berikut adalah tampilan setelah proses skipfish selesai berjalan
+
+    ![Screenshot](images/7-3.png)
+
+    Berikut ini adalah hasil crawl yang berhasil dilakukan oleh skipfish
+
+2. Setelah berhasil mendapatkan sitemapnya kita dapat melihat URL yang memiliki input parameter penting yaitu /?tampil=artikel_detail&id=78 Selanjutnya kita jalankan sqlmap untuk mendapatkan list database yang ada pada server menggunakan command berikut
+
+    ```$ sqlmap -u "http://192.168.30.148?id=1" --dbs```
 
     ![Screenshot](images/8.png)
 
-    pada halaman ini akan terdapat parameter id yang dapat kita manfaatkan untuk injeksi nantinya
-
-3. Selanjutnya kita jalankan sqlmap untuk mendapatkan list database yang ada pada server menggunakan command berikut
-
-    ```$ sqlmap -u "192.168.6.148/konten/artikel_detail.php?id=1" --dbs```
-
-    ![Screenshot](images/9.png)
-
-    setelah menjalankan sqlmap ternyata masih belum berhasil mendapatkan list database yang ada pada server dikarenakan parameter id tidak injectable berdasarkan penjelasan output dari sqlmap. 
+    setelah menjalankan perintah diatas, kita mendapatkan list database yang ada pada server ini
